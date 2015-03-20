@@ -1,0 +1,1 @@
+Google Web Toolkit and Google Maps API combined to visualize a photograph in Google Maps, including field of view and depth of field.
